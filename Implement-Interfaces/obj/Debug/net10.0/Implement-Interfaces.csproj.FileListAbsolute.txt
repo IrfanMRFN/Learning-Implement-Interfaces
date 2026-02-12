@@ -1,0 +1,15 @@
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\bin\Debug\net10.0\Implement-Interfaces.exe
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\bin\Debug\net10.0\Implement-Interfaces.deps.json
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\bin\Debug\net10.0\Implement-Interfaces.runtimeconfig.json
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\bin\Debug\net10.0\Implement-Interfaces.dll
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\bin\Debug\net10.0\Implement-Interfaces.pdb
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.AssemblyInfoInputs.cache
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.AssemblyInfo.cs
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.csproj.CoreCompileInputs.cache
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.sourcelink.json
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.dll
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\refint\Implement-Interfaces.dll
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.pdb
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\Implement-Interfaces.genruntimeconfig.cache
+f:\C# Projects\!Learning Projects\Learning Implement Interfaces\Learning-Implement-Interfaces\Implement-Interfaces\obj\Debug\net10.0\ref\Implement-Interfaces.dll
