@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces\\Implement-Interfaces.csproj": {}
+    "f:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces-2\\Implement-Interfaces-2.csproj": {}
   },
   "projects": {
-    "F:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces\\Implement-Interfaces.csproj": {
+    "f:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces-2\\Implement-Interfaces-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces\\Implement-Interfaces.csproj",
-        "projectName": "Implement-Interfaces",
-        "projectPath": "F:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces\\Implement-Interfaces.csproj",
+        "projectUniqueName": "f:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces-2\\Implement-Interfaces-2.csproj",
+        "projectName": "Implement-Interfaces-2",
+        "projectPath": "f:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces-2\\Implement-Interfaces-2.csproj",
         "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces\\obj\\",
+        "outputPath": "f:\\C# Projects\\!Learning Projects\\Learning Implement Interfaces\\Learning-Implement-Interfaces\\Implement-Interfaces-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
